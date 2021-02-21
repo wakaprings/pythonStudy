@@ -1,6 +1,23 @@
 # pipのアップグレード
 c:\python39\python.exe -m pip install --upgrade pip
-pip install neo4j-driver
+#pip install neo4j-driver
+pip install streamlit
+pip install geoip2
+
+
+
+streamlit hello
+
+
+git init
+
+git config --global user.email "waka_taka@wakataka.mixh.jp"
+git config --global user.name "waka_prings"
+
+git config --global alias.ci commit
+git config --global alias.st status
+git config --global alias.br branch
+git config --global alias.co checkout
 
 git init
 git add README.md
