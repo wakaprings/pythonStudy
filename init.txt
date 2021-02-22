@@ -3,7 +3,7 @@ c:\python39\python.exe -m pip install --upgrade pip
 #pip install neo4j-driver
 pip install streamlit
 pip install geoip2
-
+pip install vega_datasets
 
 
 streamlit hello
